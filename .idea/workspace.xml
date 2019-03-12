@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1aa198eb-5a39-441e-b6b0-39a04ba9389c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html" afterDir="false" />
+    <list default="true" id="1aa198eb-5a39-441e-b6b0-39a04ba9389c" name="Default Changelist" comment="change img width">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,18 +19,19 @@
     <session id="-2108631997">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="544" />
+          <entry key="html" value="613" />
           <entry key="json" value="35" />
           <entry key="md" value="3" />
+          <entry key="txt" value="27" />
           <entry key="xml" value="61" />
           <entry key="yml" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="544" />
+          <entry key="HTML" value="613" />
           <entry key="JSON" value="35" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="30" />
           <entry key="XML" value="61" />
           <entry key="YAML" value="57" />
         </counts>
@@ -40,23 +40,23 @@
         <counts>
           <entry key="LICENSE" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="18" />
-          <entry key="jpg" value="1" />
+          <entry key="html" value="19" />
+          <entry key="jpg" value="2" />
           <entry key="js" value="2" />
           <entry key="json" value="1" />
           <entry key="md" value="4" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="3" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="18" />
-          <entry key="Image" value="1" />
+          <entry key="HTML" value="19" />
+          <entry key="Image" value="2" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="3" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -67,17 +67,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="184" column="43" selection-start-line="184" selection-start-column="25" selection-end-line="184" selection-end-column="43" />
+            <state relative-caret-position="96">
+              <caret line="230" column="28" selection-start-line="230" selection-start-column="28" selection-end-line="230" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="139">
+              <caret line="29" column="65" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="65" />
               <folding>
                 <element signature="e#752#756#0" expanded="true" />
               </folding>
@@ -86,47 +86,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/2017-12-21-openfaas-practise/index.html">
+        <entry file="file://$PROJECT_DIR$/post/index.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="268">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/post/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="33" column="61" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/ios-vpn-setting.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="218" column="35" lean-forward="true" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/2016-04-23-the-golang-book/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/note/im-study/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="282" column="32" lean-forward="true" selection-start-line="282" selection-start-column="32" selection-end-line="282" selection-end-column="32" />
+            <state relative-caret-position="64">
+              <caret line="177" column="23" selection-start-line="177" selection-start-column="23" selection-end-line="177" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -152,7 +124,6 @@
       <find>hux</find>
       <find>if</find>
       <find>email</find>
-      <find>wyj5230@gmail.com</find>
       <find>这是一个学习、分享的平台！</find>
       <find>IM系统研究</find>
       <find>blog-linux</find>
@@ -164,6 +135,9 @@
       <find>linux</find>
       <find>/post/</find>
       <find>about</find>
+      <find>blog-linux-code</find>
+      <find>wyj5230@gmail.com</find>
+      <find>img</find>
       <find>比较好的学习资料</find>
     </findStrings>
     <replaceStrings>
@@ -188,9 +162,11 @@
         <option value="$PROJECT_DIR$/README.zh.md" />
         <option value="$PROJECT_DIR$/post/note/im-study/index.html" />
         <option value="$PROJECT_DIR$/about/index.html" />
-        <option value="$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.xml" />
+        <option value="$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html" />
+        <option value="$PROJECT_DIR$/post/index.xml" />
+        <option value="$PROJECT_DIR$/post/index.html" />
       </list>
     </option>
   </component>
@@ -221,44 +197,7 @@
             <path>
               <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2017-08-18-linux-learning-materials" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2017-09-04-how-to-setup-git-server" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2017-11-16-linux-study-io-pipe" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2017-12-21-openfaas-practise" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="note" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="note" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="awesome-study" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -284,7 +223,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="readme.zh&#9;FILE&#9;file://C:/workspace/wyj5230.github.io/README.zh.md" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/workspace/wyj5230.github.io/post/note/im-study/index.html&#10;readme.zh&#9;FILE&#9;file://C:/workspace/wyj5230.github.io/README.zh.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../huxpro.github.io" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -320,10 +259,25 @@
       <updated>1552295046837</updated>
       <workItem from="1552295048097" duration="3903000" />
     </task>
+    <task id="LOCAL-00001" summary="add img">
+      <created>1552372690515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552372690515</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change img width">
+      <created>1552373452909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552373452909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8033000" />
+    <option name="totallyTimeSpent" value="9446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="299" y="1072" width="1382" height="744" extended-state="6" />
@@ -354,6 +308,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add img" />
+    <MESSAGE value="change img width" />
+    <option name="LAST_COMMIT_MESSAGE" value="change img width" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/about/zh.md" />
     <entry file="file://$PROJECT_DIR$/js/hux-blog.min.js" />
@@ -376,13 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="900" column="10" lean-forward="true" selection-start-line="900" selection-start-column="10" selection-end-line="900" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/note/im-study/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="282" column="32" lean-forward="true" selection-start-line="282" selection-start-column="32" selection-end-line="282" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -432,16 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="218" column="35" lean-forward="true" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/ios-vpn-setting.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/post/2017-11-16-linux-study-io-pipe/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -454,34 +396,72 @@
         <state relative-caret-position="-153" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="33" column="61" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="61" />
+          <caret line="230" column="28" selection-start-line="230" selection-start-column="28" selection-end-line="230" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="184" column="43" selection-start-line="184" selection-start-column="25" selection-end-line="184" selection-end-column="43" />
+        <state relative-caret-position="1575">
+          <caret line="196" column="44" selection-start-line="196" selection-start-column="44" selection-end-line="196" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#p#3;n#div#1;n#article#0;n#div#0;n#div#0;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#6;n#div#1;n#article#0;n#div#0;n#div#0;n#main#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/android-vpn-setting.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/post/2017-12-21-openfaas-practise/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="54">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="218" column="35" lean-forward="true" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/ios-vpn-setting.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/note/im-study/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="282" column="32" lean-forward="true" selection-start-line="282" selection-start-column="32" selection-end-line="282" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="139">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="65" />
           <folding>
             <element signature="e#752#756#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="177" column="23" selection-start-line="177" selection-start-column="23" selection-end-line="177" selection-end-column="23" />
         </state>
       </provider>
     </entry>
