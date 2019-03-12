@@ -219,7 +219,7 @@ and the repository exists.
 
 <pre><code class="language-console">$ git config -l
 ...
-user.email=wyj5230@gmail.com
+user.email=wyjwyj5230@gmail.com
 user.name=wyj5230
 </code></pre>
 
@@ -229,7 +229,7 @@ user.name=wyj5230
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCu4Jy/+uFGiC89luBejzCEyPbY0SRoppyzrB4g1v3zv1OleylMzdf+eTTRcYgMbYoY6ZQs4M2NHX20iO6vf6j2uPvUsB++pP0G6Q7+VlrUlC19B07IVx7Mo2xmHCe4bMshFSugqOl+hV6zVjGpYJcLI9XtWQ6F/br4tkYD/J8KWns+SNha8gJVBckV1ncGlR+Q7ji4OM4+eIhKEEK4Wo7Cf7KaT71fIVFl7XRx5kmdtEN3F+wT4LjNb2okl8Pu4mmxCMwJvXzj0Jr9PkVzhSAhDkWG3mMt3kC5PhhRhCP7uwkGFsOEm5uGS907wTxY9cJNIl8FikOfmvDa5XrfMbMx nbaoping@xxx.com
 </code></pre>
 
-<p>发现邮件居然是<code>nbaoping@xxx.com</code>（此处已打码），显然跟本地repo的<code>wyj5230@gmail.com</code>不同，<code>git</code>提交的时候没有特殊配置，会使用默认的ssh key，也就是<code>~/.ssh/id_rsa.pub</code>，而提交的用户信息跟此key并不能对应上，故此<code>github</code>拒绝了此次提交。既然如此，那把本地repo的用户信息改成key所对应的信息不就好了吗？是的，但是此信息都已经打码了就充分说明本博主是十分不愿暴露它的，咱必须得想其它辙。</p>
+<p>发现邮件居然是<code>nbaoping@xxx.com</code>（此处已打码），显然跟本地repo的<code>wyjwyj5230@gmail.com</code>不同，<code>git</code>提交的时候没有特殊配置，会使用默认的ssh key，也就是<code>~/.ssh/id_rsa.pub</code>，而提交的用户信息跟此key并不能对应上，故此<code>github</code>拒绝了此次提交。既然如此，那把本地repo的用户信息改成key所对应的信息不就好了吗？是的，但是此信息都已经打码了就充分说明本博主是十分不愿暴露它的，咱必须得想其它辙。</p>
 
 <p>好了，现在的问题就是，如何使用特定的ssh key提交Git？本文就来讲述一种通用的解决办法。</p>
 
@@ -249,13 +249,13 @@ origin  git@github.com:wyj5230/wyj5230.github.io.git (push)
 
 <pre><code class="language-console">$ git config -l
 ...
-user.email=wyj5230@gmail.com
+user.email=wyjwyj5230@gmail.com
 user.name=wyj5230
 </code></pre>
 
-<p>最关键的是邮件信息<code>wyj5230@gmail.com</code>。如果没有用户信息，可以先配置：</p>
+<p>最关键的是邮件信息<code>wyjwyj5230@gmail.com</code>。如果没有用户信息，可以先配置：</p>
 
-<pre><code class="language-console">$ git config user.email &quot;wyj5230@gmail.com&quot;
+<pre><code class="language-console">$ git config user.email &quot;wyjwyj5230@gmail.com&quot;
 $ git config user.name &quot;wyj5230&quot;
 </code></pre>
 
@@ -263,7 +263,7 @@ $ git config user.name &quot;wyj5230&quot;
 
 <li><p>为repo的用户生成新的ssh key</p>
 
-<pre><code class="language-console">$ ssh-keygen -C &quot;wyj5230@gmail.com&quot;
+<pre><code class="language-console">$ ssh-keygen -C &quot;wyjwyj5230@gmail.com&quot;
 Generating public/private rsa key pair.
 Enter file in which to save the key (/Users/nbaoping/.ssh/id_rsa): id_rsa.github
 Enter passphrase (empty for no passphrase):
@@ -271,7 +271,7 @@ Enter same passphrase again:
 Your identification has been saved in id_rsa.github.
 Your public key has been saved in id_rsa.github.pub.
 The key fingerprint is:
-SHA256:G0djI0bh+XwGcwOZ0AsbQ8ffB51pYrfSlRALNZw3igc wyj5230@gmail.com
+SHA256:G0djI0bh+XwGcwOZ0AsbQ8ffB51pYrfSlRALNZw3igc wyjwyj5230@gmail.com
 The key's randomart image is:
 +---[RSA 2048]----+
 |       .==o+o=+.+|
@@ -286,7 +286,7 @@ The key's randomart image is:
 +----[SHA256]-----+
 </code></pre>
 
-<p>其中，<code>-C</code>是用来指定该key的用户信息的，这里咱们使用了<code>wyj5230@gmail.com</code>。该命令是一个交互式的命令，其中大部分你都可以直接回车，但是对于第一个提示<code>Enter file in which to save the key</code>，<strong><em>请务必输入你想要的文件名，否则它将覆盖你默认的ssh key，这个可是不可逆的</em></strong>。这里使用文件名<code>id_rsa.github</code>。如果没有指定文件夹在路径中，该命令会在当前目录下生成key文件：</p>
+<p>其中，<code>-C</code>是用来指定该key的用户信息的，这里咱们使用了<code>wyjwyj5230@gmail.com</code>。该命令是一个交互式的命令，其中大部分你都可以直接回车，但是对于第一个提示<code>Enter file in which to save the key</code>，<strong><em>请务必输入你想要的文件名，否则它将覆盖你默认的ssh key，这个可是不可逆的</em></strong>。这里使用文件名<code>id_rsa.github</code>。如果没有指定文件夹在路径中，该命令会在当前目录下生成key文件：</p>
 
 <pre><code class="language-console">$ ls id_rsa.github*
 id_rsa.github  id_rsa.github.pub
@@ -431,7 +431,7 @@ To github.com:wyj5230/wyj5230.github.io.git
 
     <footer id="footer" class="footer">
       <div class="social-links">
-      <a href="mailto:wyj5230@gmail.com" rel="me" class="iconfont icon-email"
+      <a href="mailto:wyjwyj5230@gmail.com" rel="me" class="iconfont icon-email"
         title="email" target="_blank">
       </a>
       <a href="https://github.com/wyj5230" rel="me" class="iconfont icon-github"
