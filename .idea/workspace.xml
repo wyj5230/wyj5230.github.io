@@ -2,98 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa198eb-5a39-441e-b6b0-39a04ba9389c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/github/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/github/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/sample/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2016-04-23-the-golang-book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2016-04-23-the-golang-book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2016-05-16-full-stack-demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2016-05-16-full-stack-demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2016-05-30-full-stack-demo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2016-05-30-full-stack-demo2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2016-06-23-full-stack-demo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2016-06-23-full-stack-demo3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-08-15-how-to-git-with-specific-ssh-key/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-08-15-how-to-git-with-specific-ssh-key/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-08-15-how-to-setup-your-github-io-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-08-15-how-to-setup-your-github-io-blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-08-16-how-to-add-comments/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-08-16-how-to-add-comments/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-08-18-linux-learning-materials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-08-18-linux-learning-materials/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-09-04-how-to-setup-git-server/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-09-04-how-to-setup-git-server/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-10-09-linux-study-command-line/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-10-09-linux-study-command-line/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-10-09-linux-study-file-system-hierarchy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-10-09-linux-study-file-system-hierarchy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-10-09-linux-study-overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-10-09-linux-study-overview/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-10-10-linux-study-shell-basic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-10-10-linux-study-shell-basic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-10-11-rushgps-migrate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-10-11-rushgps-migrate/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-11-16-linux-study-io-pipe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-11-16-linux-study-io-pipe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-11-17-linux-study-common-tools/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-11-17-linux-study-common-tools/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/2017-12-21-openfaas-practise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/2017-12-21-openfaas-practise/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/blog/2017-08-15-how-to-setup-your-github-io-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/blog/2017-08-15-how-to-setup-your-github-io-blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/blog/2017-08-16-how-to-add-comments/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/blog/2017-08-16-how-to-add-comments/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/docker/2016-05-16-full-stack-demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/docker/2016-05-16-full-stack-demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/docker/2016-05-30-full-stack-demo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/docker/2016-05-30-full-stack-demo2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/docker/2016-06-23-full-stack-demo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/docker/2016-06-23-full-stack-demo3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/git/2017-08-15-how-to-git-with-specific-ssh-key/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/git/2017-08-15-how-to-git-with-specific-ssh-key/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/git/2017-09-04-how-to-setup-git-server/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/git/2017-09-04-how-to-setup-git-server/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-08-18-linux-learning-materials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-08-18-linux-learning-materials/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-10-09-linux-study-command-line/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-10-09-linux-study-command-line/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-10-09-linux-study-file-system-hierarchy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-10-09-linux-study-file-system-hierarchy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-10-09-linux-study-overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-10-09-linux-study-overview/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-10-10-linux-study-shell-basic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-10-10-linux-study-shell-basic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-11-16-linux-study-io-pipe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-11-16-linux-study-io-pipe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/linux/2017-11-17-linux-study-common-tools/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/linux/2017-11-17-linux-study-common-tools/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/2016-04-23-the-golang-book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/2016-04-23-the-golang-book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/awesome-study/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/awesome-study/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/blockchain-marterial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/blockchain-marterial/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/im-study/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/im-study/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/learn-python-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/learn-python-books/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/mq-choose/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/mq-choose/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/opensource/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/opensource/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/sql-proxy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/sql-proxy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/note/webrtc-marterial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/note/webrtc-marterial/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/others/2017-10-11-rushgps-migrate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/others/2017-10-11-rushgps-migrate/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/sample/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/docker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/git/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/github/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/github/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/go/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/golang/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/im/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/im/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/linux/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/linux/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/mq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/mq/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/opensource/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/opensource/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/python/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/python/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/rushgps/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/rushgps/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/serverless/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/serverless/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/study/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/study/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/sysadmin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/sysadmin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/themes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/webrtc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/webrtc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/书籍/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/书籍/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/区块链/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/区块链/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/命令行/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/命令行/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/学习/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/学习/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/学习资料/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/学习资料/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/安全/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/安全/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/推荐/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/推荐/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/推荐书籍/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/推荐书籍/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/教程/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/系统管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/系统管理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/网络/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/网络/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/脚本/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/脚本/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/读书笔记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/读书笔记/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/调研/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/调研/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/资料/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/资料/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-cn/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-cn/tags/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -108,19 +20,19 @@
     <session id="-2108631997">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="21" />
+          <entry key="html" value="544" />
           <entry key="json" value="35" />
           <entry key="md" value="3" />
-          <entry key="xml" value="27" />
+          <entry key="xml" value="61" />
           <entry key="yml" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="21" />
+          <entry key="HTML" value="544" />
           <entry key="JSON" value="35" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="XML" value="27" />
+          <entry key="XML" value="61" />
           <entry key="YAML" value="57" />
         </counts>
       </usages-collector>
@@ -128,21 +40,23 @@
         <counts>
           <entry key="LICENSE" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="12" />
+          <entry key="html" value="18" />
+          <entry key="jpg" value="1" />
           <entry key="js" value="2" />
           <entry key="json" value="1" />
           <entry key="md" value="4" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="12" />
+          <entry key="HTML" value="18" />
+          <entry key="Image" value="1" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -153,17 +67,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="168" column="30" lean-forward="true" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+            <state relative-caret-position="254">
+              <caret line="184" column="43" selection-start-line="184" selection-start-column="25" selection-end-line="184" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="47" column="10" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="10" />
+            <state relative-caret-position="309">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#752#756#0" expanded="true" />
               </folding>
@@ -171,41 +85,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post/2017-12-21-openfaas-practise/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5032">
-              <caret line="296" lean-forward="true" selection-start-line="296" selection-end-line="296" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/index.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zh-cn/categories/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="33" column="61" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/ios-vpn-setting.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="218" column="35" lean-forward="true" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="35" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post/2016-04-23-the-golang-book/index.html">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/2016-05-16-full-stack-demo/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="900" column="10" lean-forward="true" selection-start-line="900" selection-start-column="10" selection-end-line="900" selection-end-column="10" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -215,11 +129,6 @@
               <caret line="282" column="32" lean-forward="true" selection-start-line="282" selection-start-column="32" selection-end-line="282" selection-end-column="32" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -246,11 +155,21 @@
       <find>wyj5230@gmail.com</find>
       <find>这是一个学习、分享的平台！</find>
       <find>IM系统研究</find>
+      <find>blog-linux</find>
+      <find>io重定向-io-redirection</find>
+      <find>前面的博文</find>
+      <find>摘要</find>
+      <find>搭建教程</find>
+      <find>div</find>
+      <find>linux</find>
+      <find>/post/</find>
       <find>about</find>
+      <find>比较好的学习资料</find>
     </findStrings>
     <replaceStrings>
       <replace>wyj5230.me</replace>
       <replace>wyjwyj5230@gmail.com</replace>
+      <replace>搭建教程</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\workspace\wyj5230.github.io</dir>
@@ -262,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.html" />
@@ -270,6 +188,8 @@
         <option value="$PROJECT_DIR$/README.zh.md" />
         <option value="$PROJECT_DIR$/post/note/im-study/index.html" />
         <option value="$PROJECT_DIR$/about/index.html" />
+        <option value="$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.xml" />
       </list>
     </option>
@@ -301,24 +221,44 @@
             <path>
               <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2017-08-18-linux-learning-materials" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2017-09-04-how-to-setup-git-server" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2017-11-16-linux-study-io-pipe" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2017-12-21-openfaas-practise" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="note" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wyj5230.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="post" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="note" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="awesome-study" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -351,6 +291,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\wyj5230.github.io\post" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -378,10 +323,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4071000" />
+    <option name="totallyTimeSpent" value="8033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="299" y="1072" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -450,17 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/post/2016-04-23-the-golang-book/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zh-cn/categories/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tags/im/index.html">
@@ -470,27 +406,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="168" column="30" lean-forward="true" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+        <state relative-caret-position="170">
+          <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.xml">
+    <entry file="file://$PROJECT_DIR$/zh-cn/categories/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="47" column="10" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="10" />
-          <folding>
-            <element signature="e#752#756#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/教程/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-824">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/2017-09-04-how-to-setup-git-server/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="111" column="49" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/blog/deploy-hugo-blog-in-github.io/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="218" column="35" lean-forward="true" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/ios-vpn-setting.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/2017-11-16-linux-study-io-pipe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="75" lean-forward="true" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/note/awesome-study/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/2019-03-12-aws-vpn/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="184" column="43" selection-start-line="184" selection-start-column="25" selection-end-line="184" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/post/2017-12-21-openfaas-practise/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5032">
-          <caret line="296" lean-forward="true" selection-start-line="296" selection-end-line="296" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#752#756#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
